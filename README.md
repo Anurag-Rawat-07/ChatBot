@@ -1,3 +1,4 @@
+
 # Agentic RAG Chatbot with LangGraph
 <hr>
 
@@ -18,6 +19,8 @@ A conversational Retrieval-Augmented Generation (RAG) application built using La
 4.User defined tool for calculations.<br>
 *   **Response Streaming:** Token-by-token output streaming to the frontend for a responsive, ChatGPT-like user experience.
 
+<br>
+<img width="5332" height="6000" alt="diagram" src="https://github.com/user-attachments/assets/a2512684-a20e-4c21-b980-087c56d319e6" />
 <br><hr>
 ## Tech Stack
 
